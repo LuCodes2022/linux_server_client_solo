@@ -19,4 +19,4 @@ Workstation
  - setting up home folder on seperate partition same disk
 
 ## Things still working on
-I keep a list of things i am still working on fro this project[here](./TO_DO.md)
+I keep a list of things i am still working on fro this project [here](./TO_DO.md)
