@@ -10,6 +10,7 @@ Server
  - Setting up CLPI, MariaDB and Apache2
  - Creating back-up script
  - setting up SSH
+
 Workstation
  - LibreOffice
  - Gimp
