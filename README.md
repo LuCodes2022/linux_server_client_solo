@@ -9,14 +9,14 @@ Server
  - Setting up DNS
  - Setting up CLPI, MariaDB and Apache2
  - Creating back-up script
- - setting up SSH
+ - Setting up SSH
 
 Workstation
  - LibreOffice
  - Gimp
  - Mullvad browser
- - automatic addressing 
- - setting up home folder on seperate partition same disk
+ - Automatic Addressing 
+ - Setting up home folder on seperate partition same disk
 
 ## Things still working on
 I keep a list of things i am still working on fro this project [here](./TO_DO.md)
