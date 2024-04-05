@@ -1,11 +1,3 @@
 # To Do
 ## Still Working On:
-- Server
-- - Creating back-up script
-- - setting up SSH
-- Workstation
-- - LibreOffice
-- - Gimp
-- - Mullvad browser
-- - automatic addressing 
-- - setting up home folder on seperate partition same disk
+This github! I finish the technical stuff but I still have to make it all look pretty with a little bow and some sparkles!!!
