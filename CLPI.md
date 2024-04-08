@@ -172,4 +172,4 @@ enter the name of your database you set up earlier, the default username and pas
 click next then click update DB, select glpi (the name we gave the DB earlier). click next and then you should be logged in!
 ![](./assets/CLPI.png)
 
-Now follow the settings and chnge the username and password to access GLPI, and you are done with this step! Now you can move on to the [next](./CLPI.md).
+Now follow the settings and chnge the username and password to access GLPI, and you are done with this step! Now you can move on to the [next](./SCRIPT.md).
