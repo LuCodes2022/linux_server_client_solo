@@ -37,6 +37,6 @@ If at any point you want to check the status of your DNS server:
 ```bash
 $ sudo systemctl status bind9
 ```
-And you are done with the DNS set up! Congrats!!! Now lets move on to the next step, [CLPI](./CLPI.md)
+And you are done with the DNS set up! Congrats!!! Now lets move on to the next step, [CLPI](./CLPI.md).
 
 
